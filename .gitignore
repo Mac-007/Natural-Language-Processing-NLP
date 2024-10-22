@@ -1,0 +1,8 @@
+# Ignore the folder and its subfolders
+(Edx Course) Natural Language Processing Foundations
+
+# Ignore any __pycache__ folder anywhere in the project
+__pycache__
+
+# Ignore a specific Python file
+tensorflow_tokenizer.py
